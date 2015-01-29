@@ -1,0 +1,19 @@
+#Exercise 4.6.1 in PCFB
+
+# How many times will 'hello' be printed?
+1) 14
+2) 4
+3) 5
+4) 5
+5) 8
+
+#What does fooXX do? 
+1) Creates a function that takes the square root of x
+2) Creates a function that prints/returns x if x is larger than y, and y if x is not larger than y
+3) Creates a function that changes the order of three numbers given to the function:
+	The first if switches x and y, if x is greater than y
+	The second if switches the new y and z, if y is greater than z
+	The third if switches the new y and new x, if x is greater than y
+Then the funciton returns the 3 numbers in the last order. 
+4) Creates a function that returns a factorial of x 
+5) Creates a function that returns, via a different mathematical route, a factorial of x
